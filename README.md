@@ -1,5 +1,4 @@
 # Awesome AI Tools for Programmers That Aren't Code Generation
-
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A list of awesome AI tools for software engineers that aren't about code generation.
@@ -8,7 +7,7 @@ A list of awesome AI tools for software engineers that aren't about code generat
 - [Diagramming](#diagramming)
 - [PR Review](#pr-review)
 - [Testing](#testing)
-- [Other](#project-management)
+- [Project Management](#project-management)
 
 ## Diagramming
 - [GitDiagram](https://gitdiagram.com/) - Turn any GitHub repository into an interactive diagram for visualization.
@@ -16,7 +15,7 @@ A list of awesome AI tools for software engineers that aren't about code generat
 - [CodeSee](https://www.codesee.io/) - CodeSee gives your team full application visibility at every layer so the team can ship, refactor and onboard to legacy or existing applications faster.
 
 ## PR Review
-- [Bito](https://bito.ai/) - Codebase aware AI code reviews
+- [Bito](https://bito.ai/) - Codebase aware AI code reviews.
 - [CodeRabbit](https://www.coderabbit.ai/) - Fine-tuned code reviews using auto-learnings from user feedback and configurable instructions.
 - [Qodo (formerly Codium)](https://www.qodo.ai/products/qodo-merge/) - Qodo Merge is a code review tool that automates review workflows and improves code quality.
 - [Sourcery](https://sourcery.ai/) - Sourcery is an AI code reviewer that finds bugs, improves quality, and shares knowledge.
