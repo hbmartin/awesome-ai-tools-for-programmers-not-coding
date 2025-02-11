@@ -10,3 +10,5 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+      - name: Typos
+        uses: crate-ci/typos@v1.19.0

@@ -1,5 +1,4 @@
-# Awesome AI Tools for Programmers That Aren't Code Generation
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome AI Tools for Programmers That Aren't Code Generation [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A list of awesome AI tools for software engineers that aren't about code generation.
 
